@@ -1,0 +1,20 @@
+custom_rules:
+  - id: 'test'
+xxx
+    description: ''
+    severity: 'low'
+    cwe: []
+    fix_analysis: ''
+    rule_code: 'CallExpression<PRED:Any>'
+    languages:
+      - 'apex'
+      - 'c'
+      - 'cpp'
+      - 'csharp'
+      - 'go'
+      - 'java'
+      - 'javascript'
+      - 'php'
+      - 'python'
+      - 'ruby'
+      - 'typescript'
